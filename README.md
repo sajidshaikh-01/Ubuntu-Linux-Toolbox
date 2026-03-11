@@ -36,4 +36,5 @@ $ cat -s myfile.txt Display consecutive blank lines as one
 $ cat -n myfile.txt Show line numbers with output
 $ cat -b myfile.txt Show line numbers only on non-blank lines
 
+<img width="438" height="504" alt="image" src="https://github.com/user-attachments/assets/5942b561-e762-4f37-9038-cb0f2d8463ec" />
 
